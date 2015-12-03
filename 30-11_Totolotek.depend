@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1448889798 source:g:\codeblocks\30-11_totolotek\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1449106370 source:f:\codeblocks\30-11_totolotek\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
